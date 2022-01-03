@@ -8,6 +8,8 @@ To see my work, click the link below:
 
 Assignment 2: https://htmlpreview.github.io/?https://github.com/thaibinhbr97/coursera-html-css-js/blob/main/Ass2_Submission/index.html
 
+Assignment 3: https://htmlpreview.github.io/?https://github.com/thaibinhbr97/coursera-html-css-js/blob/main/Ass3_Submission/index.html
+
 Assignment 4: https://htmlpreview.github.io/?https://github.com/thaibinhbr97/coursera-html-css-js/blob/main/Ass4_Submission/index.html
 
 Thanks,
