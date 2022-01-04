@@ -12,6 +12,8 @@ Assignment 3: https://thaibinhbr97.github.io/coursera-html-css-js/Ass3_Submissio
 
 Assignment 4: https://thaibinhbr97.github.io/coursera-html-css-js/Ass4_Submission/index.html
 
+Assignment 5: https://thaibinhbr97.github.io/coursera-html-css-js/Ass5_Submission/index.html
+
 Thanks,
 
 Brad
