@@ -1,7 +1,7 @@
 # Coursera-HTML-CSS-JS-WebDev-JHU-Assignments
 
 ## Description
-This repo is for the course "HTML, CSS, JavaScript for Web Developers" course assignments by Johns Hopkins Univ on Coursera. It contains codes for Module 2, 3, 4 Modules Assignments.
+This repo is for the course "HTML, CSS, JavaScript for Web Developers" course assignments by Johns Hopkins Univ on Coursera. It contains codes for Module 2, 3, 4, 5 Assignments.
 
 ## HTML, CSS, JavaScript for Web Developers 
 https://www.coursera.org/learn/html-css-javascript-for-web-developers
