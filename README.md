@@ -13,10 +13,10 @@ https://github.com/jhu-ep-coursera/fullstack-course4/tree/master/assignments
 
 To see my work, click the link below here:
 
--[Assignment 2] https://thaibinhbr97.github.io/coursera-html-css-js/Ass2_Submission/index.html
+### [Assignment 2] https://thaibinhbr97.github.io/coursera-html-css-js/Ass2_Submission/index.html
 
--[Assignment 3] https://thaibinhbr97.github.io/coursera-html-css-js/Ass3_Submission/index.html
+### [Assignment 3] https://thaibinhbr97.github.io/coursera-html-css-js/Ass3_Submission/index.html
 
--[Assignment 4] https://thaibinhbr97.github.io/coursera-html-css-js/Ass4_Submission/index.html
+### [Assignment 4] https://thaibinhbr97.github.io/coursera-html-css-js/Ass4_Submission/index.html
 
--[Assignment 5] https://thaibinhbr97.github.io/coursera-html-css-js/Ass5_Submission/index.html
+### [Assignment 5] https://thaibinhbr97.github.io/coursera-html-css-js/Ass5_Submission/index.html
